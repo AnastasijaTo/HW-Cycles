@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class VacationServiceTest {
 
     @Test
-    public void testCashVacation(){
+    public void testCashVacation() {
         VacationService service = new VacationService();
 
         int expected = 3;
@@ -21,7 +21,7 @@ public class VacationServiceTest {
 
     @Test
 
-    public void testCashVacationRest(){
+    public void testCashVacationRest() {
 
         VacationService service = new VacationService();
 
